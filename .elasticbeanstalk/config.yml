@@ -3,7 +3,7 @@ branch-defaults:
     environment: eb-study-sync-dev
     group_suffix: null
   main:
-    environment: eb-study-sync-dev5
+    environment: eb-study-sync-dev
 global:
   application_name: eb-study-sync
   branch: null
